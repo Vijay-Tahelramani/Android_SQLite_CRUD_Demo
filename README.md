@@ -35,4 +35,9 @@ Below 4 class shows the code for performing CRUD operations.
 3. <a href="https://github.com/Vijay-Tahelramani/Android_SQLite_CRUD_Demo/blob/master/SQLITE_CRUD/app/src/main/java/com/example/sqlite_crud/UpdateFragment.java">```UpdateFragment.java```</a><br/>
 4. <a href="https://github.com/Vijay-Tahelramani/Android_SQLite_CRUD_Demo/blob/master/SQLITE_CRUD/app/src/main/java/com/example/sqlite_crud/seeDataFragment.java">```seeDataFragment.java```</a><br/>
 
-Screen Preview:
+Screen Preview:<br/>
+<table><tr>
+<td><img src="https://github.com/Vijay-Tahelramani/Android_SQLite_CRUD_Demo/blob/master/Images/Retrieve_Data.png" width="250"/></td>
+<td><img src="https://github.com/Vijay-Tahelramani/Android_SQLite_CRUD_Demo/blob/master/Images/Insert.png" width="250"/></td>
+<td><img src="https://github.com/Vijay-Tahelramani/Android_SQLite_CRUD_Demo/blob/master/Images/Delete.png" width="250"/></td>
+<td><img src="https://github.com/Vijay-Tahelramani/Android_SQLite_CRUD_Demo/blob/master/Images/Update.png" width="250"/></td></tr></table>
