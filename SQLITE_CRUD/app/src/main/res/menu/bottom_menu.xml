@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/see_data"
+        android:title="See Data"
+        android:icon="@drawable/see_data"
+        app:showAsAction="ifRoom"
+        android:enabled="true"/>
+
+    <item android:id="@+id/insert"
+        android:title="Insert"
+        android:icon="@drawable/insert"
+        app:showAsAction="ifRoom"
+        android:enabled="true"/>
+
+    <item android:id="@+id/delete"
+        android:title="Delete"
+        android:icon="@drawable/delete"
+        app:showAsAction="ifRoom"
+        android:enabled="true"/>
+
+    <item android:id="@+id/update"
+        android:title="Update"
+        android:icon="@drawable/update"
+        app:showAsAction="ifRoom"
+        android:enabled="true"/>
+
+
+</menu>
